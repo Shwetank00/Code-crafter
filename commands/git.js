@@ -10,7 +10,9 @@
 // git remote add  origin         https://github.com/Shwetank00/Code-crafter   # Adds a remote repository for push/pull operations
 // git push -u  origin main       To push your local repository upstream to GitHub
 
-// git rm --cached -r .               to remore staged files 
+// git rm --cached -r .               to remore staged files
+// .gitignore                         to ignore the files add their name in this folder
+
 // .gitignore                         to ignore the files add their name in this folder 
 
 // git clone https://github.com/Shwetank00/Code-crafters.git   "Cloning an existing Git repository"
