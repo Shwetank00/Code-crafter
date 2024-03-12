@@ -47,3 +47,22 @@
 // myFunction(bottles);
 
 // return gives output from the function
+
+// var n= Math.random();       to generate a random number between 0-0.999999999
+// n = n*x;                    where x is the range of numbers u
+// n = Math.floor(n);          giving integer part only
+
+// if(track==="yes"){                          if/else
+//    console.log("You are tracking");             
+// }else {
+//     console.log("you are not tracking");
+// }
+
+// ===  values and data  type both should be same
+// !==  to check for non equality
+// ==   checks whether two variables have same value or not
+// !=   checks whether two variables have different values
+// >    greater than
+// <    less than
+// >=   greater than equal to
+// <=   less than equal to
